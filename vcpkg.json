@@ -1,0 +1,21 @@
+{
+    "name": "gui",
+    "version-string": "0.1.0",
+    "dependencies": [
+        {
+            "name": "fmt"
+        },
+        {
+            "name": "sfml"
+        },
+        {
+            "name": "boost-thread"
+        },
+        {
+            "name": "boost-asio"
+        },
+        {
+            "name": "implot"
+        }
+    ]
+}
